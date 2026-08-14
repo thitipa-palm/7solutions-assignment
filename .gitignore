@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Compiled files
+bin/
+*.exe
+*.out
+
+# Test coverage
+coverage.out
+coverage.html
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
