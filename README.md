@@ -281,3 +281,11 @@ The application listens for `SIGINT` and `SIGTERM`. When a shutdown signal is re
 2. Waits for active requests to finish.
 3. Stops the background user count monitor.
 4. Disconnects from MongoDB.
+
+
+## Lottery Search System Design
+
+Part 2 of this assignment is a system design proposal only. No implementation code is required.
+
+- [English Version](./docs/lottery-search-system.en.md)
+- [Thai Version](./docs/lottery-search-system.th.md)
