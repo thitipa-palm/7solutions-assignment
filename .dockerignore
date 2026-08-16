@@ -1,0 +1,10 @@
+.git
+.gitignore
+.env
+Dockerfile
+README.md
+coverage.out
+*.log
+.DS_Store
+.vscode
+.idea
